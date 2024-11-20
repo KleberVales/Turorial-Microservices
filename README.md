@@ -35,6 +35,8 @@
      * Apache Kafka (mensageria).
      * RabbitMQ ou ActiveMQ.
     
-5. Gestão de Configuração 
+5. Gestão de Configuração
+   - Configuração centralizada com Spring Cloud Config.
+   - Gerenciamento de secrets e variáveis de ambiente (como usar Vault ou AWS Secrets Manager).
 
 
