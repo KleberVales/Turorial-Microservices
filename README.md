@@ -24,5 +24,15 @@
      * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server.
      * Circuit Breaker (Hystrix/Resilience4j).
    - Micronaut:
-     * Framework alternativo, leve e otimizado para microservices. 
+     * Framework alternativo, leve e otimizado para microservices.
+    
+4. Comunicação entre Microservices
+   - Protocolos e formatos de comunicação:
+     * REST (HTTP/HTTPS).
+     * JSON e XML.
+   - JSON e XML.
+     * GRPC.
+     * Apache Kafka (mensageria).
+     * RabbitMQ ou ActiveMQ. 
+
 
