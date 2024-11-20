@@ -33,6 +33,8 @@
    - JSON e XML.
      * GRPC.
      * Apache Kafka (mensageria).
-     * RabbitMQ ou ActiveMQ. 
+     * RabbitMQ ou ActiveMQ.
+    
+5. Gestão de Configuração 
 
 
