@@ -54,5 +54,11 @@
      * Retry e Timeout policies.
 
 8. Contêineres e Orquestração
+   - Docker:
+     * Criação de contêineres para microservices.
+     * Docker Compose para ambientes multi-contêiner.
+   - Kubernetes:
+     * Deploy e gerenciamento de microservices.
+     * Conceitos como pods, services, ingress. 
 
 
