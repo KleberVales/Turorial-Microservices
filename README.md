@@ -22,5 +22,7 @@
      * Configuração de propriedades e profiles.
    - Spring Cloud:
      * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server.
-     * Circuit Breaker (Hystrix/Resilience4j). 
+     * Circuit Breaker (Hystrix/Resilience4j).
+   - Micronaut:
+     * Framework alternativo, leve e otimizado para microservices. 
 
