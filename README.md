@@ -59,6 +59,9 @@
      * Docker Compose para ambientes multi-contêiner.
    - Kubernetes:
      * Deploy e gerenciamento de microservices.
-     * Conceitos como pods, services, ingress. 
+     * Conceitos como pods, services, ingress.
+    
+9. Testes de Microservices
+    - Testes unitários e de integração com JUnit e MockMVC. 
 
 
