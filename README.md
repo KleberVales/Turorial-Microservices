@@ -6,4 +6,8 @@
    - Princípios de design:
      * Independência dos serviços.
      * Comunicação assíncrona ou síncrona.
-     * Autonomia e independência de dados. 
+     * Autonomia e independência de dados.
+   - Domain-Driven Design (DDD)
+     * Domain-Driven Design (DDD)
+     * Domain-Driven Design (DDD) 
+
