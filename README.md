@@ -12,4 +12,7 @@
      * Domain-Driven Design (DDD)
        
 2. Linguagem e Fundamentos do Java
+   - Revisão de conceitos básicos de Java.
+   - Trabalhar com APIs REST usando JAX-RS ou Spring MVC.
+   - Manipulação de JSON usando bibliotecas como Jackson ou Gson. 
 
