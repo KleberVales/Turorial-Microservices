@@ -4,4 +4,6 @@
    - O que são microservices e como se diferenciam da arquitetura monolítica.
    - Benefícios e desafios dessa abordagem. ,
    - Princípios de design:
-     * Independência dos serviços. 
+     * Independência dos serviços.
+     * Comunicação assíncrona ou síncrona.
+     * Autonomia e independência de dados. 
