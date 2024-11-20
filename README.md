@@ -63,6 +63,9 @@
     
 9. Testes de Microservices
     - Testes unitários e de integração com JUnit e MockMVC.
-    - Testes de contrato com Spring Cloud Contract. 
+    - Testes de contrato com Spring Cloud Contract.
+    - Testes end-to-end para verificar a integração entre serviços.
+  
+10. Segurança em Microservices 
 
 
