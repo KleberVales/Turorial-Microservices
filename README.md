@@ -21,5 +21,6 @@
      * Criação de APIs RESTful.
      * Configuração de propriedades e profiles.
    - Spring Cloud:
-     * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server. 
+     * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server.
+     * Circuit Breaker (Hystrix/Resilience4j). 
 
