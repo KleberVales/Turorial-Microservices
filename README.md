@@ -66,6 +66,9 @@
     - Testes de contrato com Spring Cloud Contract.
     - Testes end-to-end para verificar a integração entre serviços.
   
-10. Segurança em Microservices 
+10. Segurança em Microservices
+    - Autenticação e autorização com OAuth2 e JWT.
+    - Integração com Spring Security.
+    - Práticas de segurança para proteger APIs.
 
 
