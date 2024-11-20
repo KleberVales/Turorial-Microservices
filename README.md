@@ -39,4 +39,20 @@
    - Configuração centralizada com Spring Cloud Config.
    - Gerenciamento de secrets e variáveis de ambiente (como usar Vault ou AWS Secrets Manager).
 
+6. Banco de Dados e Persistência
+   - Banco de Dados e Persistência:
+     * Cada microservice gerencia seu próprio banco de dados.
+   - Trabalhar com JPA/Hibernate ou Spring Data.
+   - Alternativas como NoSQL (MongoDB, Cassandra).
+
+7. Monitoramento e Resiliência
+   - Monitoramento e Logging:
+     * Uso de ferramentas como ELK Stack (Elasticsearch, Logstash, Kibana).
+     * Distributed Tracing com Zipkin ou Jaeger.
+   - Tolerância a falhas:
+     * Implementação de Circuit Breaker (Resilience4j).
+     * Retry e Timeout policies.
+
+8. Contêineres e Orquestração
+
 
