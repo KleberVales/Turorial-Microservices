@@ -70,5 +70,9 @@
     - Autenticação e autorização com OAuth2 e JWT.
     - Integração com Spring Security.
     - Práticas de segurança para proteger APIs.
+   
+11. Versionamento e CI/CD
+    - Versionamento de APIs (URI ou cabeçalhos).
+    - Configuração de pipelines de CI/CD com Jenkins, GitHub Actions ou GitLab CI.
 
 
