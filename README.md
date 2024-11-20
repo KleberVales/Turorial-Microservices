@@ -62,6 +62,7 @@
      * Conceitos como pods, services, ingress.
     
 9. Testes de Microservices
-    - Testes unitários e de integração com JUnit e MockMVC. 
+    - Testes unitários e de integração com JUnit e MockMVC.
+    - Testes de contrato com Spring Cloud Contract. 
 
 
