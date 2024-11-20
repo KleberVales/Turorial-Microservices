@@ -18,4 +18,8 @@
 
 3. Frameworks Populares para Microservices
    - Spring Boot:
+     * Criação de APIs RESTful.
+     * Configuração de propriedades e profiles.
+   - Spring Cloud:
+     * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server. 
 
