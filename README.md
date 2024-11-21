@@ -8,10 +8,10 @@
      Por outro lado, a arquitetura monolítica é um modelo em que todas as funcionalidades de um sistema estão integradas em um único código ou aplicação. Isso significa que o sistema é implantado como uma unidade única.
 
    - Vantagens dos microservices:
-     Flexibilidade no desenvolvimento: As equipes podem trabalhar em paralelo em serviços diferentes.
-     Escalabilidade otimizada: Apenas os serviços mais utilizados precisam ser escalados.
-     Maior resiliência: Problemas em um serviço não comprometem o sistema inteiro.
-     Facilidade de adoção de novas tecnologias: Cada serviço pode ser construído com diferentes ferramentas.
+     * Flexibilidade no desenvolvimento: As equipes podem trabalhar em paralelo em serviços diferentes.
+     * Escalabilidade otimizada: Apenas os serviços mais utilizados precisam ser escalados.
+     * Maior resiliência: Problemas em um serviço não comprometem o sistema inteiro.
+     * Facilidade de adoção de novas tecnologias: Cada serviço pode ser construído com diferentes ferramentas.
 
      
    - Benefícios e desafios dessa abordagem. ,
