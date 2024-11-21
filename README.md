@@ -12,6 +12,11 @@
      * Escalabilidade otimizada: Apenas os serviços mais utilizados precisam ser escalados.
      * Maior resiliência: Problemas em um serviço não comprometem o sistema inteiro.
      * Facilidade de adoção de novas tecnologias: Cada serviço pode ser construído com diferentes ferramentas.
+    
+   - Desvantagens dos microservices:
+     * Maior complexidade: Requer sistemas avançados de comunicação, orquestração e monitoramento.
+     * Custo operacional: Pode gerar mais custos em infraestrutura, já que cada microserviço pode ter seus próprios requisitos.
+     * Gerenciamento de dados: Manter consistência entre os serviços pode ser desafiador.
 
      
    - Benefícios e desafios dessa abordagem. ,
