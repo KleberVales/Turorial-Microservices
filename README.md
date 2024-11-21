@@ -19,7 +19,7 @@
      * Gerenciamento de dados: Manter consistência entre os serviços pode ser desafiador.
 
    - Princípios de design:
-     * Independência dos serviços.
+     * Independência dos serviços.\
        A independência dos serviços é uma das características fundamentais dos microservices. Ela significa que cada microserviço é projetado para ser autônomo e desacoplado dos outros serviços no sistema.
      * Comunicação assíncrona ou síncrona.
      * Autonomia e independência de dados.
