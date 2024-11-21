@@ -18,10 +18,9 @@
      * Custo operacional: Pode gerar mais custos em infraestrutura, já que cada microserviço pode ter seus próprios requisitos.
      * Gerenciamento de dados: Manter consistência entre os serviços pode ser desafiador.
 
-     
-   - Benefícios e desafios dessa abordagem. ,
    - Princípios de design:
      * Independência dos serviços.
+       A independência dos serviços é uma das características fundamentais dos microservices. Ela significa que cada microserviço é projetado para ser autônomo e desacoplado dos outros serviços no sistema.
      * Comunicação assíncrona ou síncrona.
      * Autonomia e independência de dados.
    - Domain-Driven Design (DDD)
