@@ -25,7 +25,13 @@
        Essa independência é garantida por uma série de práticas e princípios arquiteturais: Independência no desenvolvimento, Independência na implantação, Independência na comunicação, Independência no armazenamento de dados, Independência em falhas.
   
        
-     * Comunicação assíncrona ou síncrona.
+     * Comunicação assíncrona ou síncrona.\
+       A comunicação entre microservices pode ser síncrona ou assíncrona, e a escolha entre elas depende das necessidades do sistema, do tipo de interação e dos requisitos de desempenho e resiliência.
+  
+       Na comunicação síncrona, um microserviço faz uma chamada direta a outro e espera pela resposta antes de continuar. Essa abordagem é frequentemente implementada com protocolos baseados em requisição e resposta, como: HTTP/REST e gRPC.
+  
+       Na comunicação assíncrona, o microserviço chamador envia uma mensagem ou evento para o serviço chamado e não espera pela resposta imediatamente. A interação ocorre em segundo plano, utilizando sistemas de mensageria como: RabbitMQ, Apache Kafka e AWS SQS.
+       
      * Autonomia e independência de dados.
    - Domain-Driven Design (DDD)
      * Domain-Driven Design (DDD)
