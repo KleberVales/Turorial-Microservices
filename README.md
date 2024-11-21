@@ -2,6 +2,8 @@
 
 1. Conceitos Fundamentais de Microservices
    - O que são microservices e como se diferenciam da arquitetura monolítica.
+     Microservices (ou microserviços) são uma abordagem arquitetural para o desenvolvimento de software em que um sistema é dividido em pequenos serviços independentes. Cada microserviço é responsável por uma funcionalidade específica do sistema e pode ser desenvolvido, implantado e escalado de forma independente.
+     
    - Benefícios e desafios dessa abordagem. ,
    - Princípios de design:
      * Independência dos serviços.
