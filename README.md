@@ -21,6 +21,10 @@
    - Princípios de design:
      * Independência dos serviços.\
        A independência dos serviços é uma das características fundamentais dos microservices. Ela significa que cada microserviço é projetado para ser autônomo e desacoplado dos outros serviços no sistema.
+  
+       Essa independência é garantida por uma série de práticas e princípios arquiteturais: Independência no desenvolvimento, Independência na implantação, Independência na comunicação, Independência no armazenamento de dados, Independência em falhas.
+  
+       
      * Comunicação assíncrona ou síncrona.
      * Autonomia e independência de dados.
    - Domain-Driven Design (DDD)
