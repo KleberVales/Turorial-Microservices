@@ -32,7 +32,7 @@
   
        Na comunicação assíncrona, o microserviço chamador envia uma mensagem ou evento para o serviço chamado e não espera pela resposta imediatamente. A interação ocorre em segundo plano, utilizando sistemas de mensageria como: RabbitMQ, Apache Kafka e AWS SQS.
        
-     * Autonomia e independência de dados.
+     * Autonomia e independência de dados.\
        A autonomia e independência de dados são princípios fundamentais na arquitetura de microservices. Elas garantem que cada serviço seja responsável por gerenciar seus próprios dados, sem depender diretamente de outros serviços. Isso ajuda a manter o sistema desacoplado e escalável.
        
    - Domain-Driven Design (DDD)
