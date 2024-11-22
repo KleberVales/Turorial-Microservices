@@ -74,9 +74,14 @@
    
      * Criação de APIs RESTful.
      * Configuração de propriedades e profiles.
+       
    - Spring Cloud:
+     
+     Spring Cloud é um conjunto de ferramentas do ecossistema Spring projetadas para ajudar no desenvolvimento de sistemas distribuídos e baseados em microsserviços. Ele fornece suporte para várias funcionalidades essenciais, como configuração centralizada, balanceamento de carga, descoberta de serviços, circuit breakers, e muito mais.
+     
      * Componentes como Eureka (Service Discovery), Zuul/Gateway, Config Server.
      * Circuit Breaker (Hystrix/Resilience4j).
+       
    - Micronaut:
      * Framework alternativo, leve e otimizado para microservices.
     
