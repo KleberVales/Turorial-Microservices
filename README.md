@@ -36,8 +36,7 @@
        A autonomia e independência de dados são princípios fundamentais na arquitetura de microservices. Elas garantem que cada serviço seja responsável por gerenciar seus próprios dados, sem depender diretamente de outros serviços. Isso ajuda a manter o sistema desacoplado e escalável.
        
    - Domain-Driven Design (DDD)
-     * Domain-Driven Design (DDD)
-     * Domain-Driven Design (DDD)
+     Domain-Driven Design (DDD), ou Design Orientado ao Domínio, é uma abordagem de desenvolvimento de software que foca em alinhar o design e a estrutura do sistema ao domínio de negócios que ele representa. Introduzido por Eric Evans no livro Domain-Driven Design: Tackling Complexity in the Heart of Software, o DDD oferece um conjunto de princípios e práticas para lidar com a complexidade em projetos de software grandes e complexos.
        
 1. Linguagem e Fundamentos do Java
    - Revisão de conceitos básicos de Java.
