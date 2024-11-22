@@ -42,6 +42,18 @@
 1. Linguagem e Fundamentos do Java
    - Revisão de conceitos básicos de Java.
    - Trabalhar com APIs REST usando JAX-RS ou Spring MVC.
+
+     Trabalhar com APIs REST usando JAX-RS ou Spring MVC envolve duas abordagens populares para criar serviços RESTful em Java. A escolha entre elas depende de requisitos do projeto, familiaridade com frameworks e preferências pessoais.
+
+     * Usando JAX-RS
+
+       JAX-RS (Java API for RESTful Web Services) é uma especificação Java para criar serviços RESTful. Implementações populares incluem Jersey e RESTEasy.
+
+      * Usando Spring MVC
+    
+        Spring MVC faz parte do Spring Framework e é amplamente usado para criar APIs REST devido à sua flexibilidade, suporte a várias integrações e uma ampla base de usuários.
+    
+        
    - Manipulação de JSON usando bibliotecas como Jackson ou Gson.
 
 2. Frameworks Populares para Microservices
