@@ -56,6 +56,16 @@
         
    - Manipulação de JSON usando bibliotecas como Jackson ou Gson.
 
+     Manipular JSON em Java é uma tarefa comum, e as bibliotecas mais populares para isso são Jackson e Gson. Ambas oferecem métodos simples para serializar objetos em JSON e desserializar JSON em objetos Java.
+
+     * Usando Jackson
+
+       Jackson é uma biblioteca poderosa e flexível para manipular JSON. Ela é amplamente utilizada devido à sua eficiência e suporte avançado para tipos complexos.
+
+     * Usando Gson
+
+       Gson, desenvolvido pelo Google, é uma biblioteca leve e fácil de usar para manipulação de JSON.
+
 2. Frameworks Populares para Microservices
    - Spring Boot:
      * Criação de APIs RESTful.
