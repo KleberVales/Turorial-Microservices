@@ -68,6 +68,10 @@
 
 2. Frameworks Populares para Microservices
    - Spring Boot:
+     
+     Spring Boot é um framework que simplifica a criação de aplicativos Java baseados no Spring Framework. Ele reduz a configuração necessária, oferece convenções sobre configurações, e é amplamente utilizado para criar APIs RESTful, aplicativos web e microsserviços.
+   
+   
      * Criação de APIs RESTful.
      * Configuração de propriedades e profiles.
    - Spring Cloud:
@@ -76,7 +80,7 @@
    - Micronaut:
      * Framework alternativo, leve e otimizado para microservices.
     
-3. Comunicação entre Microservices
+4. Comunicação entre Microservices
    - Protocolos e formatos de comunicação:
      * REST (HTTP/HTTPS).
      * JSON e XML.
@@ -85,17 +89,17 @@
      * Apache Kafka (mensageria).
      * RabbitMQ ou ActiveMQ.
     
-4. Gestão de Configuração
+5. Gestão de Configuração
    - Configuração centralizada com Spring Cloud Config.
    - Gerenciamento de secrets e variáveis de ambiente (como usar Vault ou AWS Secrets Manager).
 
-5. Banco de Dados e Persistência
+6. Banco de Dados e Persistência
    - Banco de Dados e Persistência:
      * Cada microservice gerencia seu próprio banco de dados.
    - Trabalhar com JPA/Hibernate ou Spring Data.
    - Alternativas como NoSQL (MongoDB, Cassandra).
 
-6. Monitoramento e Resiliência
+7. Monitoramento e Resiliência
    - Monitoramento e Logging:
      * Uso de ferramentas como ELK Stack (Elasticsearch, Logstash, Kibana).
      * Distributed Tracing com Zipkin ou Jaeger.
@@ -103,7 +107,7 @@
      * Implementação de Circuit Breaker (Resilience4j).
      * Retry e Timeout policies.
 
-7. Contêineres e Orquestração
+8. Contêineres e Orquestração
    - Docker:
      * Criação de contêineres para microservices.
      * Docker Compose para ambientes multi-contêiner.
@@ -111,17 +115,17 @@
      * Deploy e gerenciamento de microservices.
      * Conceitos como pods, services, ingress.
     
-8. Testes de Microservices
+9. Testes de Microservices
     - Testes unitários e de integração com JUnit e MockMVC.
     - Testes de contrato com Spring Cloud Contract.
     - Testes end-to-end para verificar a integração entre serviços.
   
-9. Segurança em Microservices
+10. Segurança em Microservices
     - Autenticação e autorização com OAuth2 e JWT.
     - Integração com Spring Security.
     - Práticas de segurança para proteger APIs.
    
-10. Versionamento e CI/CD
+11. Versionamento e CI/CD
     - Versionamento de APIs (URI ou cabeçalhos).
     - Configuração de pipelines de CI/CD com Jenkins, GitHub Actions ou GitLab CI.
 
