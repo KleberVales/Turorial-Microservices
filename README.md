@@ -86,6 +86,13 @@
      * Framework alternativo, leve e otimizado para microservices.
     
 4. Comunicação entre Microservices
+   - tipos de comunicação entre microserviços
+    * Sincronia
+    * Assíncrona 
+
+   - Resiliência e tolerância a falhas
+   - padrões de projetos de microserviços 
+
    - Protocolos e formatos de comunicação:
      * REST (HTTP/HTTPS).
      * JSON e XML.
