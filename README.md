@@ -88,6 +88,8 @@
 4. Comunicação entre Microservices
    - tipos de comunicação entre microserviços
     * Sincronia
+      ** Requisição e Resposta
+      ** Protocolo
     * Assíncrona 
 
    - Resiliência e tolerância a falhas
